@@ -1,6 +1,6 @@
 Hi there! I am Joseph 👋
 
--- I’m currently learning;
+<h1>I am currently learning on; </h1>
 
 : JAVA and SPRINGBOOT to understand object-oriented principles and build powerful backend services.
 : C Programming Language delving it to understand memory management, pointers, and data structures.   
