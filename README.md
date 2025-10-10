@@ -1,3 +1,2 @@
-      ___
-     __ __ 
-  / /      \ \
+
+[Programming GIFs on GIFDB](https://gifdb.com/programming)
