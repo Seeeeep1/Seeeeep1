@@ -1,4 +1,4 @@
-**Fullstack Developer | AI Integration Engineer**
+**Fullstack Developer   |   AI Integration Engineer**
 
 ---
 
@@ -24,5 +24,4 @@ Full-Stack Developer specializing in web and mobile AI integration, dedicated to
 ---
 
 ## Connect with Me
-**LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-**Email:** 
+**LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/joseph-jimenez)
