@@ -1,14 +1,12 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Joseph 
 
-### 🚀 About Me
-I am an Information Technology student passionate about building impactful applications, exploring network architectures, and solving complex problems. I love turning ideas into functional software, whether that's a utility tool to boost productivity or systems designed for community assistance.
+### About Me
+> **Fullstack Developer | AI Integration Engineer
 
-- 🔭 I’m currently working on ... **[Name of current project]**
-- 🌱 I’m currently learning ... **Advanced Java concepts, Multithreading, and Network Security**
-- 💬 Ask me about ... **Java, Networking, and UI Design**
-- ⚡ Fun fact ... **[Insert a fun tech or non-tech hobby here]**
+### Current Focus
+- Integrating Generative AI workflows into mobile and web ecosystems.
+- 
 
----
 
 ### 🛠️ Tech Stack & Tools
 
