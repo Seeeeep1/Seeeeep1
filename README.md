@@ -17,9 +17,9 @@ Full-Stack Developer specializing in web and mobile AI integration, dedicated to
 
 ## Tech Stack
 
-**Languages:** Java • JavaScript • Python
-**Frameworks & Libraries:** React • Spring Boot • FastAPI • Flask
-**Databases & Storage:** PostgreSQL • MySQL 
+* **Languages:** Java • JavaScript • Python
+* **Frameworks & Libraries:** React • Spring Boot • FastAPI • Flask
+* **Databases & Storage:** PostgreSQL • MySQL 
 
 ---
 
