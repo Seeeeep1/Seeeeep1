@@ -1,19 +1,28 @@
-# Hi there, I'm Joseph 
-
-### About Me
-Full-stack Developer | DevOps | AI Integration Engineer
-
-### Current Focus
-- Connecting web/mobile frontends to intelligent background processing engines via AI APIs.
-- Designing end-to-end architectures using React, Java, and relational SQL databases.
-- Implementing automated testing, containerization, and secure environment configuration.
-
-### Tech Stack & Tools
-- Java | Python | React | SQL (MySQL + PostgreSQL) | Git | 
----
-
-### GitHub Stats
+**Fullstack Developer | AI Integration Engineer**
 
 ---
 
-### Connect with Me
+## About Me
+
+Full-Stack Developer specializing in web and mobile AI integration, dedicated to building efficient and secure system architectures.
+
+---
+
+## Specializations
+* **Backend Development:** Java, Python, RESTful APIs, System Design
+* **Frontend Development:** React, JavaScript, TypeScript
+* **Database:** PostgreSQL, MySQL
+  
+---
+
+## Tech Stack
+
+**Languages:** Java • JavaScript • Python
+**Frameworks & Libraries:** React • Spring Boot • FastAPI • Flask
+**Databases & Storage:** PostgreSQL • MySQL 
+
+---
+
+## Connect with Me
+**LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+**Email:** 
