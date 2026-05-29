@@ -24,4 +24,4 @@ Full-Stack Developer specializing in web and mobile AI integration, dedicated to
 ---
 
 ## Connect with Me
-**LinkedIn:** [linkedin.com/in/joseph-jimenez](https://linkedin.com/in/joseph-jimenez)
+**LinkedIn:** [linkedin.com/in/joseph-jimenez-164126362](https://linkedin.com/in/joseph-jimenez-164126362)
