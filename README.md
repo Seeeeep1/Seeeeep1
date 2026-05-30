@@ -1,4 +1,4 @@
-**Fullstack Developer   |   AI Integration Engineer**
+**Full-stack Developer   |   AI Integration Engineer**
 
 ---
 
