@@ -1,24 +1,17 @@
-**Full-stack Developer   |   AI Integration Engineer**
+**Python Developer**
 
 ---
 
-## About Me
+## Currently learning
 
 Full-Stack Developer specializing in web and mobile AI integration, dedicated to building efficient and secure system architectures.
 
 ---
 
-## Specializations
-* **Backend Development:** Java, Python, RESTful APIs, System Design
-* **Frontend Development:** React, JavaScript, TypeScript
-* **Database:** PostgreSQL, MySQL
-  
----
-
 ## Tech Stack
 
-* **Languages:** Java • JavaScript • Python
-* **Frameworks & Libraries:** React • Spring Boot • FastAPI • Flask
+* **Languages:** Java • Python
+* **Frameworks & Libraries:** React
 * **Databases & Storage:** PostgreSQL • MySQL 
 
 ---
