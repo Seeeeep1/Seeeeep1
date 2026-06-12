@@ -2,16 +2,10 @@
 
 ---
 
-## Currently learning
-
-Full-Stack Developer specializing in web and mobile AI integration, dedicated to building efficient and secure system architectures.
-
----
-
 ## Tech Stack
 
 * **Languages:** Java • Python
-* **Frameworks & Libraries:** React
+* **Framework & Librarie:** React
 * **Databases & Storage:** PostgreSQL • MySQL 
 
 ---
