@@ -5,7 +5,7 @@
 ## Tech Stack
 
 * **Languages:** Java • Python
-* **Framework & Library:** React
+* **Framework & Library:** React • Tailwind CSS
 * **Databases & Storage:** PostgreSQL • MySQL 
 
 ---
