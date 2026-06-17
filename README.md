@@ -3,6 +3,7 @@
 ##### ABOUT ME
 
 Software developer focused on building scalable applications, and production-ready software. Passionate about backend engineering, system architecture, cloud-native development.
+---
 
 ##### TECH STACK
 
