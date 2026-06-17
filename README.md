@@ -1,4 +1,6 @@
-**ABSOLUTE BISAYA**
+#About me
+
+**I am Joseph Jimenez**
 
 ---
 
