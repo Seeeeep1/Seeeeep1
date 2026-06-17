@@ -1,6 +1,3 @@
-<div align="center">
-
-
 
 ##### ABOUT ME
 
@@ -71,7 +68,3 @@ Software developer focused on building scalable applications, and production-rea
 
 
 [![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Seeeeeeeeeeeeeeeeeppp) [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-jimenez-164126362)
-
-
-
-</div>
