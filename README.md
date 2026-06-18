@@ -31,7 +31,7 @@ Software developer focused on building scalable applications, and production-rea
 
 ###### Backend
 
-![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/REST_APIs-009688?style=flat)
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/REST_APIs-009688?style=flat)
 
 
 
