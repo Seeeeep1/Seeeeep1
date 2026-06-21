@@ -61,6 +61,8 @@ Software developer focused on building scalable applications, and production-rea
 
 ---
 
+##### DEV QOUTE
+"If your dreams don't scare you, they aren't big enough"
 
 
 ##### SOCIALS
