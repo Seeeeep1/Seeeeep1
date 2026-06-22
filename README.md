@@ -37,7 +37,7 @@ Software developer focused on building scalable applications, and production-rea
 
 ###### Databases
 
-![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 
 
