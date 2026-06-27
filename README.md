@@ -1,7 +1,7 @@
 ##### ABOUT ME
 
-Software developer focused on building scalable applications and production-ready software. Passionate about backend engineering, system architecture, and cloud-native development.
-
+Hi, I am Joseph. I am currently learning deep into complex database design and system architecture, with a core focus on learning how to build highly scalable backend systems.
+  
 ---
 
 ##### TECH STACK
