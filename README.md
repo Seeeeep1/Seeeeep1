@@ -28,9 +28,22 @@ Software developer focused on building scalable applications and production-read
 
 ##### STATS
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seeeeep1&show_icons=true&theme=tokyonight)
-![Your Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Seeeeep1&theme=tokyonight)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seeeeep1&layout=compact&theme=tokyonight&include_all_commits=true)
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Seeeeep1&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="195px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seeeeep1&layout=compact&theme=tokyonight" alt="Most Used Languages" height="195px" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seeeeep1&theme=tokyonight" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
