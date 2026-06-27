@@ -28,8 +28,6 @@ Software developer focused on building scalable applications and production-read
 
 ##### STATS
 
-### My GitHub Stats
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seeeeep1&show_icons=true&theme=tokyonight)
 ![Your Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Seeeeep1&theme=tokyonight)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seeeeep1&layout=compact&theme=tokyonight&include_all_commits=true)
