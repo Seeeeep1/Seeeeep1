@@ -48,3 +48,14 @@ I build scalable systems, ship with **agentic AI** and focus on **backend-cloud 
 </div>
 
 ---
+#### // stats
+
+<div align="center">
+
+  <!-- GitHub Stats Card — using reliable alternative endpoint -->
+  <img src="https://github-readme-stats.shion.dev/api?username=Seeeeep1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&icon_color=f472b6&ring_color=00d4aa" alt="GitHub Stats" height="180"/>
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Seeeeep1&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" alt="Top Languages" height="180"/>
+
+</div>
