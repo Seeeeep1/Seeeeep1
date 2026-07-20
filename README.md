@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Joseph;Backend+%7C+Cloud+%7C+Agentic+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FFB578&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Joseph;Backend+%7C+Cloud+%7C+Agentic+AI" alt="Typing SVG" />
 </div>
 
 ---
@@ -55,9 +55,9 @@ I build scalable systems, ship with **agentic AI** and focus on **backend-cloud 
 <div align="center">
 
   <!-- GitHub Stats Card — using reliable alternative endpoint -->
-  <img src="https://github-readme-stats.shion.dev/api?username=Seeeeep1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&icon_color=f472b6&ring_color=00d4aa" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Seeeeep1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFB578&text_color=c9d1d9&icon_color=f472b6&ring_color=00d4aa" alt="GitHub Stats" height="180"/>
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Seeeeep1&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Seeeeep1&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFB578&text_color=c9d1d9" alt="Top Languages" height="180"/>
 
 </div>
