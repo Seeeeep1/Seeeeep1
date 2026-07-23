@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FFB578&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Joseph;Backend+%7C+Cloud+%7C+Agentic+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FFB578&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Joseph;AI+Agent+%7C+Cloud+%7C+Backend" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
 
-I build scalable systems, ship with **agentic AI** and focus on **backend-cloud deployment**.
+### *I build scalable systems, ship with **agentic AI**, and focus on **backend-cloud deployment**.*
+
+</div>
 
 ---
 
@@ -52,10 +54,11 @@ I build scalable systems, ship with **agentic AI** and focus on **backend-cloud 
 
 ---
 
-#### // socials
+#### // contact
 
 <div align="center">
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayminezthegreat18@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Seeeeeeeeeeeeeeeeeppp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-jimenez-164126362)
 
